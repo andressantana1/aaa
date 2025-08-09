@@ -35,7 +35,7 @@ class MetroArt:
                 metod_nac()  
 
             elif opcion == '4':
-                interfaz_user()       
+                print("Opción 4 seleccionada")        
 
             elif opcion == '5':
                 print("Finalizando el programa")
